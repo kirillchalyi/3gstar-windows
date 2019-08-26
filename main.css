@@ -1,0 +1,621 @@
+.foot {
+	margin-top: 30px;
+
+}
+
+.navbar {
+	background: #0897f5;
+	color: #FFF;
+
+}
+
+.nav-link {
+	color: #FFF;
+}
+
+.navbar-brand  {
+	color: #FFF;
+}
+#top {
+	
+	font-size: 15px;
+}
+
+#top p {
+	margin-top: 20px;
+}
+
+#nomer {
+	margin-top: 50px;
+	font-size: 25px;
+
+}
+
+
+#icons {
+	font-size: 22px;
+	margin-top: 18px;
+}
+
+#first {
+	background: url(image/1.jpg) no-repeat center top;
+	min-height: 400px;
+  position: relative;
+  -webkit-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+
+#first h1 {
+	margin: 70px auto;
+	color: white;
+	font-size: 70px;
+	font-weight: 300;
+	letter-spacing: 3px;
+}
+
+.centered {
+	text-align: center;
+}
+
+#second {
+	margin-top: 30px;
+	font-size: 30px;
+}
+
+#second p {
+	font-size: 18px;
+	margin-top: 15px;
+}
+
+#second i {
+	
+}
+
+#second h4 {
+	font-size: 30px;
+	font-weight: 500;
+}
+
+#second i:hover {
+	color: #0897f5;
+}
+
+#back {
+	background: #0897f5;
+	height: 40px;
+	color: #FFF;
+}
+
+#form {
+	height: 300px;
+	width: 225px;
+	background: #434343;
+	border: 1px solid black;
+	border-radius: 2px;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+
+}
+
+#close  {
+	width: 15px;
+	height: 15px;
+	top: 10px;
+	right: 10px;
+    cursor: pointer;		
+    padding: 2px;
+    position: absolute; 
+}
+
+.form {
+	color: #fff;
+	text-align: center;
+	
+}
+
+.form h6 {
+	padding-top: 30px;
+	font-size: 20px;
+}
+
+.form p {
+	font-size: 10px;
+	color: #b4b4b4
+}
+
+.form input {
+	border-radius: 4px;
+	width: 190px;
+	height: 40px;
+	padding: 5px;
+	border: 1px solid #d2d2d2;
+}
+
+.form button {
+	width: 190px;
+	height: 40px;
+	background: #0897f5;
+	color: #fff;
+
+}
+
+#footer {
+	background: #252525;
+	min-height: 350px;
+	color: #fff;
+	text-align: justify;
+}
+
+#footer h5 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#footer p {
+	margin-bottom: 0px;
+	color: #fff;
+	font-weight: 330;
+	 text-align: justify;
+	 width: 200px;
+}
+
+#footer hr {
+	color: #fff;
+	background-color: #fff;
+}
+
+#footer h6 {
+	margin-top: 15px;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#footer img {
+	width:150px; 
+	height:50px;
+	float: left;
+}
+
+.icons {
+	color: #fff;
+	float: right;
+	text-align: right;
+	
+}
+
+.icons a {
+	color: #fff;
+	padding: 5px;
+}
+
+.justy {
+	float: right;
+}
+
+#end {
+	background: #1e1e1e;
+	text-align: left;
+	height: 65px;
+}
+
+#end p {
+	font-size: 12px;
+	font-weight: bold;
+	color: #707070;
+	margin-top: 5px;
+}
+
+#header {
+  background: url(image/3.png)  top center;;
+   max-height: 920px;
+   min-height: 600px;
+  position: relative;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#header h1 {
+	text-align: center;
+	background: rgba(0,0,0,0.5);
+	border: 1px solid black;
+	border-radius: 12px;
+	color: #fff;
+	padding: 15px;
+	margin-top: 5px;
+}
+
+
+.formhead1 {
+	height: 350px;
+	background: rgba(0, 0, 0, 0.7);
+	color: #fff;
+	font-weight: bold;
+	width: 300px;
+	margin-top: 25px;
+	border-radius: 12px;
+
+}
+
+.formhead2 {
+	height: 350px;
+	background: rgba(0, 0, 0, 0.7);
+	color: #fff;
+	font-weight: bold;
+	width: 300px;
+	margin-top: 25px;
+	border-radius: 12px;
+	margin-bottom: 25px;
+}
+
+.formtext1 {
+	padding: 25px;
+}
+
+.formtext1 h5 {
+	text-align: center;
+	font-size: 25px;
+	font-weight: 300;
+}
+
+.formtext1 p {
+	font-size: 18px;
+	font-weight: 350;
+	text-align: justify;
+	word-spacing: -0.3ex;
+}
+
+
+.formtext2 {
+	padding: 25px;
+}
+
+.formtext2 h5 {
+	text-align: center;
+	font-size: 25px;
+	font-weight: 300;
+}
+
+.formtext2 p {
+	font-size: 18px;
+	font-weight: 350;
+	text-align: justify;
+	word-spacing: -0.1ex;
+}
+
+#header2 {
+	 background: url(image/4.jpg)  top center;;
+   max-height: 920px;
+   min-height: 500px;
+  position: relative;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#header2 h1 {
+	text-align: center;
+	background: rgba(0,0,0,0.5);
+	border: 1px solid black;
+	border-radius: 12px;
+	color: #fff;
+	padding: 15px;
+	margin-top: 20px;
+}
+
+.formtext3 {
+	height: 100px; 	
+	background: rgba(0,0,0,0.5);
+	border: 1px solid black;
+	border-radius: 12px;
+	margin-top: 350px;
+	text-align: right; 
+	margin-bottom: 50px;
+}
+
+.formtext3 h4 {
+	padding: 15px;
+	color: #fff;
+	font-weight: 350;
+}
+
+#table {
+	margin-top: 0px;
+}
+
+#table li {
+	padding: 15px;
+	font-weight: 300;
+	font-size: 20px;	
+	list-style-type: none;
+}
+#table ul li:before {
+    content:  "—";
+    position: relative;
+    left:     -5px;
+}
+/* li:before {
+    content: "- ";  Добавляем в качестве маркера символ 
+   }*/
+
+#table ul {
+	background: #fff;	
+	border: 1px solid #e3e4e8;
+	border-radius: 5px;
+	margin-top: 10px;
+	 box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+
+
+#header3 {
+	 background: url(image/6.jpg)  top center;
+  	 min-height: 500px;
+ 	 position: relative;
+ 	 -webkit-background-size: cover;
+ 	 background-size: cover;
+   	 padding: 30px;
+}
+
+#header3 h1{
+	font-weight: 300;
+}
+
+#header3 h4 {
+	margin-top: -10px;
+	font-weight: 320;
+}
+
+#header4 {
+	 background: url(image/7.jpg)  top center;
+	 min-height: 500px;
+  	 position: relative;
+ 	 -webkit-background-size: cover;
+ 	 background-size: cover;
+	padding: 30px;
+}
+
+#header4 h1 {
+	font-weight: 300;
+}
+
+#header4 h4 {
+	margin-top: -10px;
+	font-weight: 320;
+}
+
+.all1 {
+	display: none; 
+}
+
+.all2 {
+	display: none; 
+}
+	.formtext4 {
+	background: rgba(0,0,0,0.5);
+	border: 1px solid black;
+	border-radius: 12px;
+	color: #fff;
+	padding: 15px;
+}
+
+
+	.formtext5 {
+	background: rgba(0,0,0,0.5);
+	border: 1px solid black;
+	border-radius: 12px;
+	color: #fff;
+	padding: 15px;
+}
+
+#tarifi {
+	min-width: 100%;
+	min-height: 700px;
+	background: url(image/9.jpg) top center;
+	padding: 15px;
+	-webkit-background-size: cover;
+ 	 background-size: cover;
+}
+
+#tarifi2 {
+	min-width: 100%;
+	min-height: 700px;
+	background: url(image/8.jpg) top center;
+	padding: 15px;
+		-webkit-background-size: cover;
+ 	 background-size: cover;
+}
+
+#tarificena:hover {
+	width: 370px;
+	height: 500px;
+	position: absolute;
+	border: 5px solid #0897f5;
+	text-decoration: underline;
+}
+
+
+
+
+.formtext6 h1 {
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 300;
+	color: #fff;
+}
+.formtext7 h1 {
+	text-align: center;
+	position: relative;
+	top: 0px;
+	font-weight: 300;
+}
+
+.formtext7 h2 {
+	text-align: center;
+	position: relative;
+	top: 0px;
+	font-size: 25px;
+	font-weight: 450;
+}
+
+#tarificena {
+	background: #fff;
+	padding: 20px;
+	border: 1px solid #e3e4e8;
+	border-radius: 5px;
+	min-height: 450px;
+	margin-top: 20px;
+}
+
+#tarificena h4 {
+	text-align: center;
+	
+}
+
+#tarificena h6 {
+	text-align: center;
+}
+
+#tarif1 h6 {
+	
+	padding-bottom: 40px;
+}
+
+#tarif4 h6{
+	padding-bottom: 20px;
+}
+
+#tarificena h4 {
+	font-weight: 600;
+}
+
+#tarificena h6 {
+	font-weight: 400;
+}
+
+#tarif3 h6 {
+	
+	padding-bottom: 20px;
+}
+
+#tarificena li {
+	margin-left: 10px;
+	text-align: left
+}
+
+#tarificena button {
+	width: 100%;
+}
+
+#tarif1 button {
+	margin-top: 120px;
+}
+
+#tarif4 button {
+	margin-top: 120px;
+}
+
+#tarif2 button {
+	margin-top: 25px;
+}
+
+#tarif5 button {
+	margin-top: 45px;
+}
+
+#pid {
+	margin-left: 30px;
+}
+
+
+#tarificena li {
+	list-style-type: none;
+}
+#tarificena ul li:before {
+    content:  "+";
+    position: relative;
+    left:     -30px;
+}
+
+.formtext8 h1 {
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 300;
+}
+
+#otzivi {
+	background: #edeef0;
+	min-width: 100%;
+	min-height: 1000px;
+}
+
+#otzivi hr {
+	border: 0.5px dashed #c0c0c0
+}
+
+#otziv1 {
+	background: #fff;
+	padding: 30px;
+	padding-top: 50px;
+	border: 1px solid #e3e4e8;
+	border-radius: 5px;
+	min-height: 250px;
+	margin-top: 20px;
+}
+
+#otziv3 {
+	background: #fff;
+	padding: 30px;
+	padding-top: 50px;
+	border: 1px solid #e3e4e8;
+	border-radius: 5px;
+	min-height: 200px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#name1 img {
+	position: relative;
+	left: 30%;
+	float: center;
+	border: 1px solid #e3e4e8;
+	border-radius: 200px;
+	width: 200px;
+	height: 200px;
+}
+#name2 img {
+	border: 1px solid #e3e4e8;
+	border-radius: 200px;
+	width: 200px;
+	height: 200px;
+}
+
+#text1 {
+	position: relative;
+	font-weight: 300;
+	font-size: 17px;
+	text-align: right;
+}
+
+#text2 {
+	position: relative;
+	font-weight: 300;
+	font-size: 17px;
+	text-align: left;
+}
+
+#name3 img {
+	margin-left: 45%;
+	border: 1px solid #e3e4e8;
+	border-radius: 200px;
+	width: 200px;
+	height: 200px;
+}
+
+#text3 {
+	position: relative;
+	left: 5%;
+	font-weight: 300;
+	font-size: 17px;
+	text-align: center;
+}
